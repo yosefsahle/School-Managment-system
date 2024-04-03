@@ -154,7 +154,7 @@ public class addgrade extends javax.swing.JFrame {
             }
         });
 
-        jLabel5.setText("Student Name");
+        jLabel5.setText("Student Full Name");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

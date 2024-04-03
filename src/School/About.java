@@ -74,10 +74,10 @@ public class About extends javax.swing.JFrame {
         jLabel6.setText("Tadesse");
 
         jLabel7.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel7.setText("Zohar");
+        jLabel7.setText("Abel");
 
         jLabel8.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel8.setText("Zohar");
+        jLabel8.setText("Chala");
 
         jLabel9.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel9.setText("Zohar");

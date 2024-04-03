@@ -96,10 +96,10 @@ public class Add_teacher extends javax.swing.JFrame {
         jLabel3.setText("Learning Without Reflection Is A Waste");
 
         jLabel5.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jLabel5.setText("Name");
+        jLabel5.setText("Your Name");
 
         jLabel6.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jLabel6.setText("Password");
+        jLabel6.setText("Your Password");
 
         TN.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         TN.addActionListener(new java.awt.event.ActionListener() {
